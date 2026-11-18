@@ -1,0 +1,3 @@
+The portrait image could not be retrieved from the shared Google Drive URL.
+Place your photo here as: profile.jpg
+Recommended: JPG, portrait crop, face centered.
