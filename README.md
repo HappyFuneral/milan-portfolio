@@ -232,7 +232,7 @@ Potential future improvements include:
 
 Software Developer · Budapest, Hungary
 
-- Website: [maroevichmilan.hu](https://maroevichmilan.hu)
+- Website: [portfolio.maroevichmilan.hu](https://portfolio.maroevichmilan.hu)
 - GitHub: [github.com/HappyFuneral](https://github.com/HappyFuneral)
 
 ---

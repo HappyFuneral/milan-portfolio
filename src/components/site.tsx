@@ -182,7 +182,18 @@ export function Home({ locale }: { locale: Locale }) {
                   Website ↗
                 </a>
               </div>
-              <Link href={`/${locale}/cv`}>{c.cv} ↗</Link>
+
+              <div className="contact-resources">
+                <Link href={`/${locale}/cv`}>{c.cv} ↗</Link>
+
+                <a
+                  href="https://github.com/HappyFuneral/milan-portfolio"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  {locale === "hu" ? "Forráskód" : "Source code"} ↗
+                </a>
+              </div>
             </div>
           </div>
         </section>
